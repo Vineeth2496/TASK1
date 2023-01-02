@@ -1,0 +1,3 @@
+Welcome to SpringBoot Day 1
+SpringBoot is Spring module from Spring Framework.
+SpringBoot is used for RAD(Rapid application Development).
