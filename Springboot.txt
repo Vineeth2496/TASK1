@@ -3,4 +3,8 @@ SpringBoot is Spring module from Spring Framework.
 SpringBoot is used for RAD(Rapid application Development).
 RAD is modified waterfall model(SLDC) which focuses on developing software in short span of time.
 
+
+We can change the default port no i.e., in appliation.properties file with server.port=XXXX(any four digits)
 Thanks
+
+
