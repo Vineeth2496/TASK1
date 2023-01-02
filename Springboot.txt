@@ -9,6 +9,8 @@ Phase of RAD are as follows
 3.Process Model
 4.Application Generation
 5.Testing & turnover
-
+We can change the default port no i.e., in appliation.properties file with server.port=XXXX(any four digits)
 
 Thanks
+
+
